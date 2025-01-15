@@ -42,6 +42,12 @@
 
   "Payments": [
     {
+      "id": "btcln",
+      "label": "Bitcoin Lightning",
+      "value": "lnbc1pncs0lkpp535tkuqmm34e8nuqylwgp6xmfe4tdh8ma89rr7rlxsay3xee47m8scqzyssp559rjnaqnnla7gzn58znaf0ttvhuvwtrkllje43ftjmruwdcs3dzq9q7sqqqqqqqqqqqqqqqqqqqsqqqqqysgqdqqmqz9gxqyjw5qrzjqwryaup9lh50kkranzgcdnn2fgvx390wgj5jd07rwr3vxeje0glclllycseq96g7lsqqqqlgqqqqqeqqjqsuyzjvsp82j269wjtzgyvecjz3wwrkay6zmu4yk5z9wle5re020nf8x7rgrnesvd5evyehwj8xc8dsgxje679v4kevh48rd00n7a0xspms3849",
+      "img": "./images/payments/lightning.png"
+    },
+    {
       "id": "btc",
       "label": "Bitcoin",
       "value": "17L3AYZ5cGHjNyPWPwh1ppY7NCyxwLHtTb",
